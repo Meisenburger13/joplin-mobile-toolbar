@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.meisenburger.mobileToolbar",
+	"app_min_version": "3.2",
+	"version": "1.0.0",
+	"name": "Mobile Toolbar",
+	"description": "Adds characters to the mobile toolbar for easy insertion",
+	"author": "Meisenburger",
+	"homepage_url": "https://github.com/Meisenburger13/mobile-toolbar",
+	"repository_url": "https://github.com/Meisenburger13/mobile-toolbar",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
