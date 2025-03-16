@@ -1,5 +1,5 @@
-# Joplin Plugin
+# Joplin Plugin — Mobile Toolbar
 
-This is your new Joplin plugin. It is suggested that you use this README file to document your plugin.
+Simple mobile plugin for Joplin which adds an emdash (—) and right arrow (→) to the mobile toolbar for easy insertion.
 
-For information on how to build or publish the plugin, please see [GENERATOR_DOC.md](./GENERATOR_DOC.md)
+Source file could easily be adapted for other symbols not available in your keyboard on mobile.
